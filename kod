@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mirosława Baby 94 - Kochaj mnie!</title>
+    <style>
+        body {
+            background: #ffe4e1;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            color: #5b0000;
+            text-align: center;
+            padding: 2rem;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 1rem auto;
+        }
+        a {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 1rem 2rem;
+            background: #ff69b4;
+            color: white;
+            text-decoration: none;
+            border-radius: 12px;
+            font-weight: bold;
+            box-shadow: 0 5px 10px rgba(255,105,180,0.4);
+            transition: background 0.3s ease;
+        }
+        a:hover {
+            background: #ff1493;
+        }
+        .footer {
+            margin-top: 3rem;
+            font-size: 0.9rem;
+            color: #7a3a3a;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cześć, jestem Mirosława, lat 94!</h1>
+    <p>Zobaczyłam Twój nick i poczułam łaskotanie w lewej łopatce – to znak od losu, że mamy wspólne przeznaczenie.</p>
+    <p>Mam dla Ciebie wideo, jak skaczę przez skakankę w zwolnionym tempie (skok trwa 17 minut).</p>
+    <a href="https://kochaj-mnie-jak-termofor.pl/miroslawa_baby94" target="_blank" rel="noopener noreferrer">Zobacz moje zdjęcia i wideo</a>
+    <p class="footer">Wierna po grób (i dalej), <br> <strong>Mirosława 💋</strong></p>
+</body>
+</html>
